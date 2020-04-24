@@ -15,6 +15,6 @@ and you see the react webpage up and running. However it comes with a lot more d
 Module 2 - webpack setup
 This takes a longer approached for getting someone up and running, but gives you a better understanding of the node module structure and the development environment that supports react such as live reloading, tree shaking, lazy loading, and so much more.
 
-This tutorial[https://www.sitepoint.com/beginners-guide-webpack-module-bundling/] by Mark Brown is a great resource for setting this up and getting an overview of how each node module functions together to setup the development environment. You have a lot less dependencies installed and your directory is 64.1mb.
+This (tutorial)[https://www.sitepoint.com/beginners-guide-webpack-module-bundling/] by Mark Brown is a great resource for setting this up and getting an overview of how each node module functions together to setup the development environment. You have a lot less dependencies installed and your directory is 64.1mb.
 
 Both modules give you small builds for delivery so there is no need to worry on that end.
