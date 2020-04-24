@@ -6,12 +6,12 @@ Module 1 - create react app
 ```
 npx create-react-app my-app
 ```
-This creates a full directory with node modules imported, a github repo initiated, and your regular JS development directories (src, public) set up for a single page react webpage. You can get a better understanding by reading the (documentation)[https://reactjs.org/docs/create-a-new-react-app.html]. Create react app allows you to get easily up and running with react development.  You simply
+This creates a full directory with node modules imported, a github repo initiated, and your regular JS development directories (src, public) set up for a single page react webpage. You can get a better understanding by reading the [documentation](https://reactjs.org/docs/create-a-new-react-app.html). Create react app allows you to get easily up and running with react development.  You simply
 ```
 cd my-app
 npm start
 ```
-and you see the react webpage up and running. All you have to do is edit the src/js and src/css files. You can follow the (react webpage tutorial)[https://reactjs.org/tutorial/tutorial.html] to get started, which I did, and start developing from there. However it comes with a lot more dependencies than you might need, especially as a beginner. Those dependencies build out to directory file size of 162.7mb.
+and you see the react webpage up and running. All you have to do is edit the src/js and src/css files. You can follow the [react webpage tutorial](https://reactjs.org/tutorial/tutorial.html) to get started, which I did, and start developing from there. However it comes with a lot more dependencies than you might need, especially as a beginner. Those dependencies build out to directory file size of 162.7mb.
 
 Module 2 - ground up webpack and babel setup
 
